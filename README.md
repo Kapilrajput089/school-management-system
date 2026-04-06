@@ -57,23 +57,6 @@ SchoolManagement/
 
 ## ⬇️ Download Application
 
-👉 Download and run the EXE file — no setup required!
-
-💡 **Download kaise kaam karega?**
-
-* Tumhe apni `.exe` file ko GitHub repo ke **Releases section** me upload karna hoga
-* Steps:
-
-  1. GitHub repo open karo
-  2. "Releases" tab pe jao
-  3. "Create new release" click karo
-  4. Apni `SchoolManagement.exe` file upload karo
-  5. Publish release
-
-👉 Uske baad README me diya hua download button automatically kaam karega
-
----
-
 ## 📄 Documentation
 
 📘 [Download Full Documentation](docs/School_Management_Documentation.pdf)
