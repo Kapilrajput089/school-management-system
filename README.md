@@ -1,13 +1,11 @@
-# school-management-system
-A fully functional School Management System built with Java Swing and SQLite, featuring student management, fee tracking, and admin dashboard in a desktop application.
 # 🎓 School Management System
 
 ---
 
 ## 🚀 Overview
 
-This project is a fully functional **School Management System Desktop Application** developed using **Java Swing** and **SQLite**.
-It is designed to manage student records, fee transactions, and administrative operations efficiently with a simple and user-friendly interface.
+This is a fully functional **School Management System Desktop Application** built using **Java Swing** and **SQLite**.
+It helps manage student records, fee transactions, and administrative tasks efficiently with a simple and user-friendly interface.
 
 ---
 
@@ -19,43 +17,27 @@ It is designed to manage student records, fee transactions, and administrative o
 * 💰 Fee Management System
 * 📊 Record Management
 * ⚡ Lightweight SQLite Database
-* 🖥️ Desktop GUI using Java Swing
+* 🖥️ Desktop GUI Application
 
 ---
 
-## 🛠️ Tech Stack
+## ⬇️ Download & Install
 
-| Technology | Description     |
-| ---------- | --------------- |
-| Java Swing | GUI Development |
-| SQLite     | Database        |
-| JDBC       | Connectivity    |
-| NetBeans   | IDE             |
+👉 Download the application from below:
+
+🔗 **Download EXE**
+https://github.com/your-username/school-management-system/releases/download/v1.0/SchoolManagement.exe
 
 ---
 
-## 📂 Project Structure
+### 📦 Installation Steps
 
-```
-SchoolManagement/
-│── src/
-│── database/
-│   └── school.db
-│── release/
-│   ├── SchoolManagement.exe
-│   └── SchoolManagement.jar
-│── setup/
-│   └── setup.iss
-│── docs/
-│   └── School_Management_Documentation.pdf
-│── screenshots/
-│── README.md
-│── .gitignore
-```
+1. Download the `.exe` file
+2. Double-click to run
+3. Follow on-screen instructions
+4. Application will be installed on your system
 
 ---
-
-## ⬇️ Download Application
 
 ## 📄 Documentation
 
@@ -65,17 +47,21 @@ SchoolManagement/
 
 ## 📸 Screenshots
 
----
+### 🔐 Login Screen
 
-## ⚙️ Setup for Developers
+![Login](screenshots/login.png)
 
-```
-git clone https://github.com/your-username/school-management-system.git
-```
+### 🏠 Dashboard
 
-* Open in NetBeans / IntelliJ
-* Add SQLite JDBC Driver
-* Run the project
+![Dashboard](screenshots/dashboard.png)
+
+### 👨‍🎓 Student Panel
+
+![Student](screenshots/student.png)
+
+### 💰 Fee Management
+
+![Fees](screenshots/fees.png)
 
 ---
 
@@ -88,21 +74,6 @@ git clone https://github.com/your-username/school-management-system.git
 
 ---
 
-## 🌟 Future Improvements
-
-* 🔔 Notifications System
-* 📱 Mobile Version
-* 📊 Advanced Reports
-* ☁️ Cloud Integration
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and improve it 🚀
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License
@@ -111,5 +82,8 @@ This project is licensed under the MIT License
 
 ## 👨‍💻 Author
 
-**Kapil (Carry)**
+**Kapil kumar
 🚀 Java Developer
+
+---
+
