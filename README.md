@@ -41,7 +41,7 @@ https://github.com/Kapilrajput089/school-management-system/releases/download/v1.
 
 ## 📄 Documentation
 
-📘 [Download Full Documentation](docs/School_Management_Documentation.pdf)
+📘 [Download Full Documentation](Docs/School_Management_Documentation.docx)
 
 ---
 
@@ -49,15 +49,15 @@ https://github.com/Kapilrajput089/school-management-system/releases/download/v1.
 
 ### 🔐 Login Screen
 
-![Login](screenshots/screenshotslogin.png)
+![Login](Screenshots/screenshotslogin.png)
 
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/screenshotsdashboard.png)
+![Dashboard](Screenshots/screenshotsdashboard.png)
 
 ### 👨‍🎓 Student Panel
 
-![Student](screenshots/screenshotsaddnewstudent.png)
+![Student](Screenshots/screenshotsaddnewstudent.png)
 
 ### 💰 Fee Management
 
@@ -88,5 +88,3 @@ This project is licensed under the MIT License
 
 **Kapil kumar**
 🚀 Java Developer
-
----
