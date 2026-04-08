@@ -61,11 +61,11 @@ https://github.com/Kapilrajput089/school-management-system/releases/download/v1.
 
 ### 💰 Fee Management
 
-![Fees](screenshots/screenshotsfees.png)
+![Fees](Screenshots/screenshotsfees.png)
 
 ### 🧾 Fee Receipt
 
-![Receipt](screenshots/Fee_receipt.png)
+![Receipt](Screenshots/Fee_receipt.png)
 
 ---
 
@@ -88,3 +88,4 @@ This project is licensed under the MIT License
 
 **Kapil kumar**
 🚀 Java Developer
+
